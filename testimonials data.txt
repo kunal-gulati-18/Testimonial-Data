@@ -1,0 +1,31 @@
+[{
+
+	_id:"01",
+	name:"Siddhant",
+	picture:"https://images.unsplash.com/photo-1554126807-6b10f6f6692a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+	description:
+“Its an amazing feeling to see the second blood report. I was already feeling better but now I could see the progress! The root cause analysis was a wake up call for me. I became more mindful about the food I was eating. It was cool that the changes weren’t radical and my mother didn’t have to change what was being cooked already."
+},
+{
+
+	_id:"02",
+	name:"Parneeta",
+	picture:"https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+	description:"I was going through a really hard phase of my life dealing with PCOD, Face Acne and Weight Gain issues. The team helped me understand what nutrients my body needs in tracked progress over a period of time. I realized that personalized and flexible nutrition plans have helped to manage by EATING RIGHT."
+},
+{
+
+	_id:"03",
+	name:"Kritika",
+	picture:"https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+	description:"I was going through a really hard phase of my life dealing with PCOD, Face Acne and Weight Gain issues. The team helped me understand what nutrients my body needs in tracked progress over a period of time. I realized that personalized and flexible nutrition plans have helped to manage by EATING RIGHT."
+},
+{
+
+	_id:"04",
+	name:"Vaishali",
+	picture:"https://images.unsplash.com/photo-1485199692108-c3b5069de6a0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+	description:"I can eat freely and am convinced that I am giving my body the right foods and the nutrients that it needs."
+Weight loss is a part of my motivation to eat right but it's not the only reason that I am doing this. For me, it's about being healthier. Eating what my body really needs keeps me from being tempted to eat the wrong thing. And fortunately, with the combination of eating right, exercising and generally trying to be healthier, I've also lost weight."
+}
+]
